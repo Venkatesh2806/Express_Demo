@@ -1,0 +1,28 @@
+{
+  "name": "contacts_api",
+  "version": "1.0.0",
+  "description": "API for the Contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkatesh2806/Contacts_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venkatesh2806/Contacts_API/issues"
+  },
+  "homepage": "https://github.com/Venkatesh2806/Contacts_API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
